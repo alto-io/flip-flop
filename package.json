@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Decentralized Game Example",
   "scripts": {
-    "serve": "sirv",
+    "serve": "sirv dist",
     "start": "parcel index.html --open",
     "build": "npm run clean && parcel build index.html --dist-dir ./dist",
     "clean": "rimraf ./dist ./parcel-cache"

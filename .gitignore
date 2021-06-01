@@ -7,7 +7,6 @@ Thumbs.db
 *.sublime-workspace
 
 # Build Files
-dist
 .parcel-cache
 
 # Vendors
